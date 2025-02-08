@@ -31,7 +31,8 @@ This project is a memory-based mind game built using Raspberry Pi Pico WH, 3 LED
 -Upload the Code: Write and run the MicroPython script in Thonny IDE.
 -Start Playing: Press the start button to begin the game.
 ![lcd_bb](https://github.com/user-attachments/assets/bda688c2-24bd-4316-b4f7-e9917a7ecc6b)
-
-
+![WhatsApp Görsel 2025-02-08 saat 18 43 48_69f0b7d3](https://github.com/user-attachments/assets/f64f3b93-6ae6-4477-8ce9-f1c24acfcfb1)
+![WhatsApp Görsel 2025-02-08 saat 18 43 51_5a3de3df](https://github.com/user-attachments/assets/8af25060-5643-48bc-8fe3-fd7181d477d5)
+![WhatsApp Görsel 2025-02-08 saat 18 43 48_1a746077](https://github.com/user-attachments/assets/dc529333-3f8a-472f-8016-bf199fbeece1)
 
 
