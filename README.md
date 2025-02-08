@@ -36,3 +36,7 @@ This project is a memory-based mind game built using Raspberry Pi Pico WH, 3 LED
 ![WhatsApp Görsel 2025-02-08 saat 18 43 48_1a746077](https://github.com/user-attachments/assets/dc529333-3f8a-472f-8016-bf199fbeece1)
 
 
+https://github.com/user-attachments/assets/8ea21221-71ed-47e6-a30b-2de261d16558
+
+
+
