@@ -34,8 +34,4 @@ This project is a memory-based mind game built using Raspberry Pi Pico WH, 3 LED
 
 
 
-Add sound effects for button presses and game events.
 
-Conclusion
-
-This mind game enhances memory and reflexes by challenging players to recall and replicate an increasing sequence of LED patterns. With its simple yet engaging gameplay, it is an excellent project for learning MicroPython and working with Raspberry Pi Pico WH.
